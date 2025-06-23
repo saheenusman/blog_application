@@ -37,9 +37,10 @@ It allows users to interact with blog content via REST APIs and a responsive web
 
 ## 📂 Project Structure
 
+```text
 Blog Application/
-├── django/ # Django Rest Framework backend
-└── flutter/ # Flutter frontend (web)
+├── django/    # Django Rest Framework backend
+└── flutter/   # Flutter frontend (web)
 
 
 ---
