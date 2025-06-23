@@ -40,7 +40,7 @@ It allows users to interact with blog content via REST APIs and a responsive web
 ```text
 Blog Application/
 ├── django/    # Django Rest Framework backend
-└── flutter/   # Flutter frontend (web)
+└── blog_flutter/   # Flutter frontend (web)
 
 
 ---
